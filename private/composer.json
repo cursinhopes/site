@@ -1,0 +1,17 @@
+{
+    "name": "rogerec/site-cursinho-pes",
+    "description": "Site do Cursinho PES",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Roger Eliodoro Condras",
+            "email": "roger.eliodoro.condras@rogerec.me"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.6",
+        "phpmailer/phpmailer": "^6.2",
+        "league/oauth2-google": "^3.0",
+        "symfony/polyfill-mbstring": "^1.20"
+    }
+}
